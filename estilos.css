@@ -9,7 +9,7 @@ body {
 
 /* Encabezado */
 .header {
-  background-image: url('Imagenes/Programacion.png');
+  background-image: url('imagenes/Programacion.png');
   background-size: cover;
   background-position: center;
   color: white;
